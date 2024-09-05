@@ -4,8 +4,8 @@ import Grid from './Grid'
 
 
 function App() {
-  var car = {x: 0, y: 0};
-  var rectangle = {x: 0, y: 0, width: 100, height: 100};
+  var car = {x: 150, y: 50};
+  var rectangle = {x: 50, y: 50, width: 200, height: 100};
 
   return (
     <>
