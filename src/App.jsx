@@ -1,13 +1,7 @@
 import { useState } from 'react'
 import './App.css'
+import Grid from './Grid'
 
-function Grid(props) {
-  return (
-    <div className="grid">
-      {props.children}
-    </div>
-  )
-};
 
 function App() {
   return (
